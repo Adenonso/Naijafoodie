@@ -132,7 +132,7 @@ class Items extends StatelessWidget {
                         Expanded(
                           flex: 5,
                           child: Text(
-                            '5 min',
+                            'Less than 2hrs',
                             style: GoogleFonts.zeyada(color: Colors.white70),
                           ),
                         ),
